@@ -1,1 +1,2 @@
-hard
+# CS615 WEEK 2
+HELLO 
